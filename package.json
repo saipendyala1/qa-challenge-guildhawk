@@ -8,6 +8,7 @@
     "start": "next start",
     "lint": "next lint",
     "test": "jest",
+    "test:e2e": "cypress run --headed",
     "react_start": "react-scripts start",
     "react_build": "react-scripts build",
     "react_test": "react-scripts test"
